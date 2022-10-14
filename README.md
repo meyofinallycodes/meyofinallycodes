@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meyofinallycodes
+- 👋 Hi, I’m @melody daniel
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning UI/UX 
 - 💞️ I’m looking to collaborate on android and UI/UX projects
