@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @melody daniel
+- 👋 Hi, I’m @themelodydaniel
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning UI/UX 
-- 💞️ I’m looking to collaborate on android and UI/UX projects
+- 🌱 I’m a Product designer
+- I'm generally a creative!
 - 📫 How to reach me meyodnn@gmail.com
 
 <!---
